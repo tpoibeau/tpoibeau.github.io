@@ -6,6 +6,29 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
+# _config.yml
+remote_theme: "academicpages/academicpages.github.io"
+theme: null   # or simply delete any `theme:` line
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-redirect-from
+
+collections:
+  publications:
+    output: true
+  talks:
+    output: true
+  teaching:
+    output: true
+  portfolio:
+    output: true
+
+
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
