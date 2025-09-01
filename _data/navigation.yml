@@ -11,15 +11,15 @@ main:
   - title: "Publications"
     url: /publications/
 
-  #- title: "Talks"
-  #  url: /talks/    
-
   - title: "UCAI"
     url: /ucai/
 
+  - title: "Medias"
+    url: /medias/    
+
   - title: "Teaching"
     url: /teaching/    
-    
+ 
   #- title: "Portfolio"
   #  url: /portfolio/
         
