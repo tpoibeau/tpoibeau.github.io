@@ -15,4 +15,4 @@ You can find my complete list of academic publications [here](https://cv.hal.sci
 
 <BR>
        
-<img src="https://tpoibeau.github.io/images/mt-poib-ch.png" alt="Cover of the Machine translation book" width="455"/>  <img src="https://tpoibeau.github.io/images/poib-cup.png" alt="Cover of the Cognition book" width="140"/>   <img src="https://tpoibeau.github.io/images/IE-springer.png" alt="Cover of the book on information extraction" width="135"/>
+<img src="https://tpoibeau.github.io/images/mt-poib-ch.png" alt="Cover of the Machine translation book" width="455"/>  <img src="https://tpoibeau.github.io/images/poib-cup.png" alt="Cover of the Cognition book" width="140"/>   <img src="https://tpoibeau.github.io/images/IE-springer.png" alt="Cover of the book on information extraction" width="134"/>
