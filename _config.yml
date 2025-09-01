@@ -8,7 +8,7 @@
 
 # _config.yml
 remote_theme: "academicpages/academicpages.github.io"
-theme: null   # or simply delete any `theme:` line
+#theme: null   # or simply delete any `theme:` line
 
 plugins:
   - jekyll-feed
