@@ -11,7 +11,7 @@ I have also published books on [information extraction, automatic summarization]
 
 In 2025, I will publish a new book with [Ubiquity Press](https://ubiquitypress.com/), *Understanding Conversational AI: The Philosophy, Ethics, and Social Impact of Large Language Models*, which will be available in open access. More details soon.
 
-You can find my complete list of academic publications [here](https://cv.hal.science/thierry-poibeau).
+You can find my complete list of my academic publications [here](https://cv.hal.science/thierry-poibeau) (jorunal and conference papers, etc.).
 
   
 
