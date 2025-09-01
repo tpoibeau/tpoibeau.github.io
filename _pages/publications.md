@@ -11,7 +11,9 @@ In 2025, I will publish a new book with [Ubiquity Press](https://ubiquitypress.c
 
 You can find my complete list of academic publications [here](https://cv.hal.science/thierry-poibeau).
 
+  
 
 
-<img src="https://tpoibeau.github.io/images/mt-poib-ch.png" alt="Cover of the Machine translation book" width="300"/>
-![Cover of the Machine translation book](/images/mt-poib-ch.png)   ![Cover of the Cognition book](/images/poib-cup.png)
+       
+<img src="https://tpoibeau.github.io/images/mt-poib-ch.png" alt="Cover of the Machine translation book" width="300"/>  <img src="https://tpoibeau.github.io/images/poib-cup.png" alt="Cover of the Cognition book" width="100"/>
+
