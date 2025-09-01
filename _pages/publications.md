@@ -10,3 +10,7 @@ I am the author of a [book on machine translation](https://mitpress.mit.edu/9780
 In 2025, I will publish a new book with [Ubiquity Press](https://ubiquitypress.com/), *Understanding Conversational AI: The Philosophy, Ethics, and Social Impact of Large Language Models*, which will be available in open access. More details soon.
 
 You can find my complete list of academic publications [here](https://cv.hal.science/thierry-poibeau).
+
+![Cover of the Machine translation book](/images/mt-poib-ch.png)
+
+![Cover of the Cognition book](/images/poib-cup.png)
