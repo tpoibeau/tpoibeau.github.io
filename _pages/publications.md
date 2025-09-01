@@ -5,4 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find my complete list of publications [here](https://example.com/my-publications).
+You can find my complete list of publications [here](https://cv.hal.science/thierry-poibeau).
