@@ -7,7 +7,7 @@ author_profile: true
 
 In English:
 <Ul>
- <li><a href="https://savoirs.ens.fr/expose.php?id=3929">A presentation video of the Oupoco project</a>, awarded at IJCAI 2023 (best entertaining video involving AI)</li>
+ <li><a href="https://www.youtube.com/watch?v=AovcXL99acY">A presentation video of the Oupoco project</a>, awarded at IJCAI 2023 (best entertaining video involving AI)</li>
 </Ul>
 
 In French: 
