@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Cours “Introduction au TAL”, Master HN PSL automne 2025"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "graduate course"
+permalink: /teaching/TAL-Master-HN-2025
+venue: "PSL/Ecole notionale des chartes"
+date: 2025
+location: "Paris, France"
 ---
 
 **Cours “Introduction au TAL”, Master HN PSL automne 2025**
