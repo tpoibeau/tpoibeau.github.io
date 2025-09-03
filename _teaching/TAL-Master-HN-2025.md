@@ -4,7 +4,7 @@ collection: teaching
 type: "graduate course"
 permalink: /teaching/TAL-Master-HN-2025
 venue: "PSL/Ecole notionale des chartes"
-date: 2025
+date: 2025-10-01
 location: "Paris, France"
 ---
 
