@@ -22,3 +22,5 @@ Postdoc
 Ingénieur/stagiaire
 - Maria Kirbasova (on Propp-ru)
 - Marjolaine Ray (on the Medialex Project)
+
+**Alumni**
