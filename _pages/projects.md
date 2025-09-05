@@ -9,7 +9,6 @@ author_profile: true
 
 
 **Medialex ANR Project**
-
 **Partners:** SciencesPo, CRESST (Polytechnqiue), INA
 **Abstract:** How do transformations of the public and media spheres reshape the dynamics of emergence, imposition, and circulation of themes in public debate? Media transformations, particularly those linked to the rise of social networks, have enabled a wider range of actors to feed topics into public debate. The MEDIALEX project seeks to develop a computational approach to the dynamics of influence between legislative and media agendas.
 
