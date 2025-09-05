@@ -45,5 +45,5 @@ Past PhD students
 - [Yufan Guo](https://www.linkedin.com/in/yufan-guo-651b0041/) (2009-2013, University of Cambridge, co-supervision with Anna Korhonen; funded by Cambridge): text zoning of scientific texts (Yufan now works as a research engineer at Amazon USA)
 - [Cédric Messiant](https://www.linkedin.com/in/cedricmessiant/?originalSubdomain=fr) (2006-2010, Université Paris 13) : Automatic lexical acquisition from large corpora (Cédric now works as a research engineer at CybelAngel, a IT company in Lille)
 - [Aurélien Bossard](https://www.aurelienbossard.fr/) (2006-2010, Université Paris 13): Automatic summarization (Aurélien is now an associate professor at Université Paris 8)
-- Amanda Bouffier (2004–2008, Université Paris 13; national PhD grant): Discursive analysis of medical texts (Amanda now works as an artist, and occasionally an independent consultant in text mining)
+- [Amanda Bouffier](https://www.linkedin.com/in/amanda-bouffier-phd-b8056a16/?originalSubdomain=fr) (2004–2008, Université Paris 13; national PhD grant): Discursive analysis of medical texts (Amanda now works as an artist, and occasionally an independent consultant in text mining)
 
