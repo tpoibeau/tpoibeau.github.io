@@ -16,3 +16,4 @@ My research spans three interconnected domains:
 -	**Computational Humanities:** developing methods and tools for the annotation and large-scale analysis of novels, notably through the Propp project (Pattern Recognition and Ontologies for Prose Processing).
 -	**AI and Society:** examining the philosophy, ethics, and social impact of large language models, including their biases, the effects of translation technologies on the translation industry, and the broader consequences of AI on work.
 
+My research focuses mainly on French and English, but I am also interested in Russian (one of the target languages for Propp) and in Finnish and other Finnic languages (particularly the status of the so-called Finnish passive).
