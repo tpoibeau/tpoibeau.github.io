@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Master’s in Artificial Intelligence & Society"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Master"
+permalink: /teaching/Master-IAS-2025
+venue: "PSL"
+date: 2025-09-01
+location: "Paris, France (bâtiment de l'Estrapade)"
 ---
 
 **Master’s in Artificial Intelligence & Society**  
