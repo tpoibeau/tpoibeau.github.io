@@ -1,5 +1,5 @@
 ---
-title: "PSL Master in Computation Humanities (cours d'introduction autraitement automatique des langues), automne 2025"
+title: "PSL Master in Computation Humanities" 
 collection: teaching
 type: "Master/Graduate course"
 permalink: /teaching/TAL-Master-HN-2025
