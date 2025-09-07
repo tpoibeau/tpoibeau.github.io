@@ -1,7 +1,7 @@
 ---
 title: "Cours “Introduction au TAL”, Master HN PSL automne 2025"
 collection: teaching
-type: "graduate course"
+type: "Master/Graduate course"
 permalink: /teaching/TAL-Master-HN-2025
 venue: "PSL/Ecole notionale des chartes"
 date: 2025-10-01
