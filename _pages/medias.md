@@ -25,6 +25,6 @@ Articles récents sur TheConversation
 <Ul>
  <li><a href="https://theconversation.com/letonnante-histoire-du-linguiste-nicolas-marr-en-urss-ou-quand-la-science-est-instrumentalisee-a-des-fins-ideologiques-262088">L’étonnante histoire du linguiste Nicolas Marr en URSS, ou quand la science est instrumentalisée à des fins idéologiques</a> (7 août 2025)</li>
  	<li><a href="https://theconversation.com/ouvrir-les-modeles-dia-pour-quils-ne-restent-pas-lapanage-des-geants-du-web-241810">Ouvrir les modèles d’IA pour qu’ils ne restent pas l’apanage des géants du Web</a> (30 octobre 2024)</li>
- 	<li><a href="https://theconversation.com/lia-generative-un-acteur-majeur-dans-une-societe-de-la-desinformation-225051">L’IA générative, un acteur majeur dans une société de la désinformation ? (7 mars 2024)</li>
- 	<li><a href="https://theconversation.com/lenvers-des-mots-intelligence-artificielle-generative-220570">L’envers des mots : Intelligence artificielle générative (21 janvier 2024)</li>
+ 	<li><a href="https://theconversation.com/lia-generative-un-acteur-majeur-dans-une-societe-de-la-desinformation-225051">L’IA générative, un acteur majeur dans une société de la désinformation ?</a> (7 mars 2024)</li>
+ 	<li><a href="https://theconversation.com/lenvers-des-mots-intelligence-artificielle-generative-220570">L’envers des mots : Intelligence artificielle générative</a> (21 janvier 2024)</li>
 </Ul>
