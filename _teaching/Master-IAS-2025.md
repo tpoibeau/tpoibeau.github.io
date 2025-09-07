@@ -1,5 +1,5 @@
 ---
-title: "Master’s in Artificial Intelligence & Society"
+title: "PSL Master in Artificial Intelligence & Society"
 collection: teaching
 type: "Master"
 permalink: /teaching/Master-IAS-2025
