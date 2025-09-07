@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching"
 permalink: /teaching/Ethics-AI
 venue: "PSL"
-date: 2025
+date: 2024-11-21
 location: "Paris, France"
 ---
 
