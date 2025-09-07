@@ -19,9 +19,9 @@ My research spans three interconnected domains:
 My research focuses mainly on French and English, but I am also interested in Russian (one of the target languages for Propp) and in Finnish and other Finnic languages (particularly the status of the so-called Finnish passive).
 
 
-<small><i><b>French version</b></i></small>  
+<span style="font-size: smaller; font-weight: bold;">French version</span>  
 
-<small><i>Je suis directeur de recherche au CNRS, au laboratoire LATTICE (Langues, Textes, Traitement et Cognition). Je suis également titulaire d’une chaire PRAIRIE-PSAI, consacrée au traitement automatique des langues, aux humanités numériques et à l’impact sociétal de l’intelligence artificielle.  
+<span style="font-size: smaller; font-weight: italic;">FJe suis directeur de recherche au CNRS, au laboratoire LATTICE (Langues, Textes, Traitement et Cognition). Je suis également titulaire d’une chaire PRAIRIE-PSAI, consacrée au traitement automatique des langues, aux humanités numériques et à l’impact sociétal de l’intelligence artificielle.  
 
 Mes recherches se situent à l’intersection de trois domaines : le traitement automatique du langage (NLP), les humanités computationnelles — notamment à travers le projet Propp pour l’analyse des récits — et l’étude des impacts philosophiques, éthiques et sociaux des grands modèles de langue. Je travaille principalement sur le français et l’anglais, mais m’intéresse aussi au russe (l’une des langues cibles de Propp) ainsi qu’au finnois et aux langues fenniques.*  
-</i></small> 
+</span> 
