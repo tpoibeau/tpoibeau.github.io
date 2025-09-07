@@ -21,7 +21,9 @@ author_profile: true
 **Abstract:** The GénéAlgoPsy project (Cultural Genealogy of Mental Pain) investigates the emergence and evolution of uses and representations of the notion of mental pain, a concept still poorly defined compared to physical pain. Led by psychiatrist and public health researcher Astrid Chevance at CRESS (INSERM/Université de Paris/APHP), it aims to clarify how mental pain is understood and differentiated from both the psychological dimension and psychological causes of physical pain.
 
 
-**Recent Past Perojects**  
+
+
+**Recent Past Projects**  
 
 **OuPoCo (Ouvroir de Poésie Combinatoire).** (2020--2022)    
 **Partners:** Internal project  
