@@ -16,7 +16,7 @@ author_profile: true
 **Partners:** Universidad Politécnica de Madrid, INDEEP AI, Universitätsklinikum Hamburg  
 **Abstract:** The ASTOUND project (2022–2025), funded by the European Innovation Council, develops new approaches to conversational AI by integrating attention mechanisms and long-term memory, while placing a strong emphasis on ethical design, trust, and responsible use of socially interactive systems.  
 
-**The [GénéAlgoPsy](https://zenodo.org/records/7845152) Project**   (2023--, seed grant from BnF in 2023)  
+**The [GénéAlgoPsy](https://zenodo.org/records/7845152) Project**   (2023--, initially funded by a seed grant from BnF in 2023; self-funded since then)  
 **Partners:** Universté Paris-Cité ([Astrid Chevance](https://www.astrid-chevance.fr/), UMR Thalim   
 **Abstract:** The GénéAlgoPsy project (Cultural Genealogy of Mental Pain) investigates the emergence and evolution of uses and representations of the notion of mental pain, a concept still poorly defined compared to physical pain. Led by psychiatrist and public health researcher Astrid Chevance at CRESS (INSERM/Université de Paris/APHP), it aims to clarify how mental pain is understood and differentiated from both the psychological dimension and psychological causes of physical pain.
 
