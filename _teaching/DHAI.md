@@ -10,7 +10,7 @@ location: "Paris, France"
 
 **Intensive PSL Week: Digital Humanities and Artificial Intelligence**  
 
-Held every year in Paris as part of the “DHAI” group activities, this intensive training week brings together 
+Held every year in Paris as part of the [DHAI](https://dhai-seminar.github.io/) group activities, this intensive training week brings together 
 Master’s and PhD students from AI, the humanities, and the social sciences. It combines lectures, practical 
 computer lab sessions, and group work on interdisciplinary projects. The program introduces participants to 
 methods such as network analysis, computer vision, natural language processing (NLP), and applications to archives, 
