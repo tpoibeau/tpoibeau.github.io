@@ -16,16 +16,17 @@ PhD students
 - Carlos Rosas (bias and social information in LLMs, Cifre PhD with Pleias)
 - [Antoine Bourgois](https://sites.google.com/view/antoinebourgois/%C3%A0-propos) (computational narratology: charcaterizinf characters in French fiction)
 
-Postdoc
+Post-docs
 - [Mingmeng Geng](http://www.mingmenggeng.com/), NLP (influence of LLMs on writing)
 - [Antoine Mazières](https://scholar.google.fr/citations?user=0_6cVLkAAAAJ&hl=fr), big data, computational social science
 
-Ingénieur/stagiaire
+Engineers/interns
 - Maria Kirbasova (on Propp-ru)
 - Marjolaine Ray (on the Medialex Project)
 
-Exrternal collaborator
+Exrternal collaborators
 - Kirill Maslinsky (Inalco), on Propp-ru
+- [Astrid Chevance](https://www.astrid-chevance.fr/), on GeneAlgoPsy and NLP for Depresion Cohort analysis
 
 **Alumni**
 
