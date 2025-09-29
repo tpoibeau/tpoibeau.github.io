@@ -11,17 +11,19 @@ location: "Paris, France"
 **Cours “Introduction au TAL”, Master HN PSL automne 2025**
 
 
-Le mercredi, de 10h à 13h, à l’école des chartes 
+Le mercredi, de 9h à 12h (le cours se terminera en fait vers 11h40 ou 11H45, pour l'inter-cours), à l’école des chartes 
 
 
 Intervenants
 
 Thierry Poibeau
+Noé Durandard
 
 
+**Répertoire pour les documents et infos associées : **  
 
-Répertoire pour les documents et infos associées : 
-xxx
+https://github.com/tpoibeau/Master-HN (mais du fait de fichiers trop gros, les données complètes seront surtout sur :
+https://drive.google.com/drive/folders/1Nl5ZfJ1-C1KaKnaVZ6PDG7Xp7VEEureo?usp=sharing)
 
 **Référence générale pour le cours**
 
@@ -37,14 +39,14 @@ Il n’y aura en principe pas d’examen avec des questions de cours, mais des n
 
 **Cours du 1er octobre 2025 : Introduction**
 
-Les supports de présentation sont dans le drive
+Les supports de présentation sont sur GitHub et dans le drive indiqué ci-dessus. 
 
 Qu’est-ce que le TAL ?
 Evolution du domaine (méthodes symboliques, statistiques, neuronales)
 Lien du TAL avec les Humanités numériques
 Désambiguisation sémantique
 
-Notions importantes
+*Notions importantes
 Problèmes d'ambiguïté, de désambiguïsation et d’explosion combinatoire
 Distant reading
 Loi de Zipf, loi de Pareto
@@ -53,7 +55,26 @@ Précision, rappel, F-mesure
 Niveaux de traitements : morphosyntaxe, syntaxe sémantique
 
 
-Lectures (pour aller plus loin, avec pas mal d’auto-promotion…)
+*Lectures (pour aller plus loin) :
 
-Jurafsky et Martin, chapitre G (word senses and Wordnet)
+Jurafsky et Martin, chapitre I (word senses and Wordnet), et pour la suite : chapitres 2, 17, 18, 19
 Katrin Erk, Diana McCarthy, Nicholas Gaylord (2009). Investigations on Word Senses and Word Usages. ACL : https://aclanthology.org/P09-1002/ (sur la notion de “graded word sense”, cad le fait qu’en contexte, un mot peut correspondre en partie à plusieurs définitions du dictionnaire)
+
+**Cours du 8 octobre 2025 : Niveaux d'analyse, Spacy**
+
+*Notions :
+Token, tokenization
+Analyse morphosyntaxique, POS Tagging, syntaxe,s émantiquer, entités nommées
+
+*Spacy:  
+[https://spacy.io/](https://spacy.io/)  
+
+*Lectures (pour aller plus loin) :  
+
+Jurafsky et Martin, chapitre 10 ; chapitre 2, 17, 18, 19
+
+
+
+
+
+
