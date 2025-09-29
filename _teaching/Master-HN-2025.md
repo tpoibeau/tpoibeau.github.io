@@ -23,7 +23,7 @@ Noé Durandard
 **Répertoire pour les documents et infos associées :**  
 
 [https://github.com/tpoibeau/Master-HN](https://github.com/tpoibeau/Master-HN) (mais du fait de fichiers trop gros, les données complètes seront surtout sur :
-[https://drive.google.com/drive/folders/1Nl5ZfJ1-C1KaKnaVZ6PDG7Xp7VEEureo?usp=sharing(https://drive.google.com/drive/folders/1Nl5ZfJ1-C1KaKnaVZ6PDG7Xp7VEEureo?usp=sharing)
+[https://drive.google.com/drive/folders/1Nl5ZfJ1-C1KaKnaVZ6PDG7Xp7VEEureo?usp=sharing](https://drive.google.com/drive/folders/1Nl5ZfJ1-C1KaKnaVZ6PDG7Xp7VEEureo?usp=sharing)
 
 **Référence générale pour le cours**  
 
@@ -37,13 +37,13 @@ Il n’y aura en principe pas d’examen avec des questions de cours, mais des n
 
 **Plan du cours**
 
-• Cours 1 : Introduction, présentation générale
-• Cours 2 : « Niveaux » d’analyse linguistique (morphosyntaxe, syntaxe,
+- Cours 1 : Introduction, présentation générale
+- Cours 2 : « Niveaux » d’analyse linguistique (morphosyntaxe, syntaxe,
 sémantique, entités nommées…) / Spacy (Bert)
-• Cours 3 : Entity linking ?
-• Cours 4, 5 : LLMs, fine tuning… (N. Durandard)
-• Cours 6, 7 : Topic modelling (N. Durandard)
-• Cours 8 : Aspects éthiques, présentation des travaux de validation du
+- Cours 3 : Entity linking ?
+- Cours 4, 5 : LLMs, fine tuning… (N. Durandard)
+- Cours 6, 7 : Topic modelling (N. Durandard)
+•- Cours 8 : Aspects éthiques, présentation des travaux de validation du
 cours, discussion et conclusion
 
 
