@@ -14,7 +14,7 @@ location: "Paris, France"
 Le mercredi, de 9h à 12h (le cours se terminera en fait vers 11h40 ou 11H45, pour l'inter-cours), à l’école nationale des chartes 
 
 
-**Intervenants  
+**Intervenants**  
 
 Thierry Poibeau  
 Noé Durandard  
@@ -46,7 +46,7 @@ Evolution du domaine (méthodes symboliques, statistiques, neuronales)
 Lien du TAL avec les Humanités numériques   
 Désambiguisation sémantique  
 
-*Notions importantes   
+*Notions importantes*   
 Problèmes d'ambiguïté, de désambiguïsation et d’explosion combinatoire   
 Distant reading   
 Loi de Zipf, loi de Pareto  
@@ -55,21 +55,21 @@ Précision, rappel, F-mesure
 Niveaux de traitements : morphosyntaxe, syntaxe sémantique  
 
 
-*Lectures (pour aller plus loin) :  
+*Lectures (pour aller plus loin) : * 
 
 Jurafsky et Martin, chapitre I (word senses and Wordnet), et pour la suite : chapitres 2, 17, 18, 19   
 Katrin Erk, Diana McCarthy, Nicholas Gaylord (2009). Investigations on Word Senses and Word Usages. ACL : https://aclanthology.org/P09-1002/ (sur la notion de “graded word sense”, cad le fait qu’en contexte, un mot peut correspondre en partie à plusieurs définitions du dictionnaire)  
 
 **Cours du 8 octobre 2025 : Niveaux d'analyse, Spacy**  
 
-*Notions :   
+*Notions :*   
 Token, tokenization  
 Analyse morphosyntaxique, POS Tagging, syntaxe,s émantiquer, entités nommées  
 
-*Spacy:   
+*Spacy :*   
 [https://spacy.io/](https://spacy.io/)   
 
-*Lectures (pour aller plus loin) :   
+*Lectures (pour aller plus loin) :*   
 
 Jurafsky et Martin, chapitre 10 ; chapitre 2, 17, 18, 19  
 
