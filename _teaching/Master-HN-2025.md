@@ -37,14 +37,14 @@ Il n’y aura en principe pas d’examen avec des questions de cours, mais des n
 
 **Plan du cours**
 
-- Cours 1 : Introduction, présentation générale
+- Cours 1 : Introduction, présentation générale  
 - Cours 2 : « Niveaux » d’analyse linguistique (morphosyntaxe, syntaxe,
-sémantique, entités nommées…) / Spacy (Bert)
-- Cours 3 : Entity linking ?
-- Cours 4, 5 : LLMs, fine tuning… (N. Durandard)
-- Cours 6, 7 : Topic modelling (N. Durandard)
-•- Cours 8 : Aspects éthiques, présentation des travaux de validation du
-cours, discussion et conclusion
+sémantique, entités nommées…) / Spacy (Bert)  
+- Cours 3 : Entity linking ?  
+- Cours 4, 5 : LLMs, fine tuning… (N. Durandard)  
+- Cours 6, 7 : Topic modelling (N. Durandard)  
+- Cours 8 : Aspects éthiques, présentation des travaux de validation du
+cours, discussion et conclusion  
 
 
 
