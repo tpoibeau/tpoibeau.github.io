@@ -20,7 +20,7 @@ Thierry Poibeau
 Noé Durandard  
 
 
-**Répertoire pour les documents et infos associées : **  
+**Répertoire pour les documents et infos associées :**  
 
 [https://github.com/tpoibeau/Master-HN](https://github.com/tpoibeau/Master-HN) (mais du fait de fichiers trop gros, les données complètes seront surtout sur :
 [https://drive.google.com/drive/folders/1Nl5ZfJ1-C1KaKnaVZ6PDG7Xp7VEEureo?usp=sharing(https://drive.google.com/drive/folders/1Nl5ZfJ1-C1KaKnaVZ6PDG7Xp7VEEureo?usp=sharing)
@@ -55,7 +55,7 @@ Précision, rappel, F-mesure
 Niveaux de traitements : morphosyntaxe, syntaxe sémantique  
 
 
-*Lectures (pour aller plus loin) : * 
+*Lectures (pour aller plus loin) :* 
 
 Jurafsky et Martin, chapitre I (word senses and Wordnet), et pour la suite : chapitres 2, 17, 18, 19   
 Katrin Erk, Diana McCarthy, Nicholas Gaylord (2009). Investigations on Word Senses and Word Usages. ACL : https://aclanthology.org/P09-1002/ (sur la notion de “graded word sense”, cad le fait qu’en contexte, un mot peut correspondre en partie à plusieurs définitions du dictionnaire)  
