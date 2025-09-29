@@ -24,7 +24,7 @@ Engineers/interns
 - Maria Kirbasova (on Propp-ru)
 - Marjolaine Ray (on the Medialex Project)
 
-Exrternal collaborators
+External collaborators
 - Kirill Maslinsky (Inalco), on Propp-ru
 - [Astrid Chevance](https://www.astrid-chevance.fr/), on GeneAlgoPsy and NLP for Depresion Cohort analysis
 
