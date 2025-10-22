@@ -85,7 +85,7 @@ Analyse morphosyntaxique, POS Tagging, syntaxe,s émantiquer, entités nommées
 Jurafsky et Martin, chapitre 10 ; chapitre 2, 17, 18, 19  
 
 
-**Cours du 22 octobre 2025 : Niveaux d'analyse, Spacy**  
+**Cours du 22 octobre 2025 : Vectorisation**  
 
 *Notions :*   
 Annotation pour 'lapprentissage  
