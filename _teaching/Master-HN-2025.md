@@ -85,6 +85,25 @@ Analyse morphosyntaxique, POS Tagging, syntaxe,s émantiquer, entités nommées
 Jurafsky et Martin, chapitre 10 ; chapitre 2, 17, 18, 19  
 
 
+**Cours du 22 octobre 2025 : Niveaux d'analyse, Spacy**  
+
+*Notions :*   
+Annotation pour 'lapprentissage  
+Accord entre annotateurs (kappa)  
+Notion de vecteur en TAL  
+Analyse distributionnelle  
+Word2vec  
+BERT  
+UMPA  
+
+*Notebook*   
+Voir dans le drive  
+
+*Lectures (pour aller plus loin) :*   
+
+Jurafsky et Martin, chapitre 10 ; chapitre 5 (et éventuellement, 6 et 7)  
+ 
+
 
 
 
