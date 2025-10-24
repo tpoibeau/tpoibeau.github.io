@@ -11,9 +11,9 @@ author_profile: true
 PhD students
 - [Jean Barré](https://www.lattice.cnrs.fr/membres/doctorants/jean-barre/) (charcaterizing literary genres with computational methods)
 - [Jeanne Bollée](https://theses.fr/s395823) (Why Study Mental States? A Study of the Cultural Evolution of Interest in Interior Life through Fiction
-- Pedro cabrera Ramirez (Modelling individual and collective poetics in Fin-de-Siècle literary journals)
-- Noé Durandard (Personalization of conversational models)
-- Carlos Rosas (bias and social information in LLMs, Cifre PhD with Pleias)
+- [Pedro Cabrera Ramirez](https://theses.fr/s396211) (Modelling individual and collective poetics in Fin-de-Siècle literary journals)
+- [Noé Durandard](https://www.lattice.cnrs.fr/membres/doctorants/noe-durandard/) (Personalization of conversational models)
+- [Carlos Rosas](https://theses.fr/s419177) (bias and social information in LLMs, Cifre PhD with Pleias)
 - [Antoine Bourgois](https://sites.google.com/view/antoinebourgois/%C3%A0-propos) (computational narratology: charcaterizinf characters in French fiction)
 
 PhD students who recently defended
