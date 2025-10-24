@@ -9,12 +9,12 @@ author_profile: true
 
 
 PhD students
-- [Jean Barré](https://www.lattice.cnrs.fr/membres/doctorants/jean-barre/) (charcaterizing literary genres with computational methods)
-- [Jeanne Bollée](https://theses.fr/s395823) (Why Study Mental States? A Study of the Cultural Evolution of Interest in Interior Life through Fiction
-- [Pedro Cabrera Ramirez](https://theses.fr/s396211) (Modelling individual and collective poetics in Fin-de-Siècle literary journals)
-- [Noé Durandard](https://www.lattice.cnrs.fr/membres/doctorants/noe-durandard/) (Personalization of conversational models)
-- [Carlos Rosas](https://theses.fr/s419177) (bias and social information in LLMs, Cifre PhD with Pleias)
+- [Jean Barré](https://www.lattice.cnrs.fr/membres/doctorants/jean-barre/) (charcaterizing literary genres with computational methods, co-supervised with T. Conrad, ENS-PSL)
+- [Jeanne Bollée](https://theses.fr/s395823) (Why Study Mental States? A Study of the Cultural Evolution of Interest in Interior Life through Fiction (co-supervised with M. Singh, UC Davies)
 - [Antoine Bourgois](https://sites.google.com/view/antoinebourgois/%C3%A0-propos) (computational narratology: charcaterizinf characters in French fiction)
+- [Pedro Cabrera Ramirez](https://theses.fr/s396211) (Modelling individual and collective poetics in Fin-de-Siècle literary journals, co-supervised with J. Schuh, U. Nanterre)
+- [Noé Durandard](https://www.lattice.cnrs.fr/membres/doctorants/noe-durandard/) (Personalization of conversational models, co-supervised with S. Hengelich/S. Dawan)
+- [Carlos Rosas](https://theses.fr/s419177) (bias and social information in LLMs, Cifre PhD with Pleias, co-supervised with B. Benbouzid)
 
 PhD students who recently defended
 - [Armin Pournaki](https://pournaki.com/) (2022-2025, , Ecole normale supérieure & U. Leipzig, co-supervised with J. Jost): Sciences Pocomputational social sciences
