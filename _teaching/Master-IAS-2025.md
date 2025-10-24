@@ -15,3 +15,5 @@ I co-lead (with Eric Brousseau and Dario Colazzo, Dauphine) and Nicolas Baumard 
 The program combines training in machine learning, data science, and computational methods with courses in ethics, law, economics, political science, and philosophy. Students gain both technical expertise and a critical understanding of the social, political, and cultural impact of AI. A central aim is to study the societal impact of AI, from governance and policy questions to cultural and ethical challenges (cf. my recent work on [the social consequences of large language models](https://tpoibeau.github.io/ucai/)).
 
 In the second year, students choose between two tracks: Governance & Societal Impact of AI or Computational Social Sciences. The program prepares graduates to engage critically and constructively with AI, whether in academia, public policy, or industry.
+
+See [here for the full programme](https://psl.eu/en/education/master-s-degree-artificial-intelligence-and-society).
