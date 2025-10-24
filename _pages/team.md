@@ -17,7 +17,7 @@ PhD students
 - [Antoine Bourgois](https://sites.google.com/view/antoinebourgois/%C3%A0-propos) (computational narratology: charcaterizinf characters in French fiction)
 
 PhD students who recently defended
-- [Armin Pournaki](https://pournaki.com/) (computational social sciences, cotutelle with Leipzig)
+- [Armin Pournaki](https://pournaki.com/) (2022-2025, computational social sciences, cotutelle with Leipzig)
 - [Salomé Do](https://sally14.github.io/) (2019-2024, Ecole normale supérieure & Sciences Po Paris, co-supervised with J.-P. Cointet, médialab Sciences Po) : Computational methods for news framing analysis. 
 
 Post-docs
