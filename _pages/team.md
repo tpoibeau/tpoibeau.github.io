@@ -11,10 +11,14 @@ author_profile: true
 PhD students
 - [Jean Barré](https://www.lattice.cnrs.fr/membres/doctorants/jean-barre/) (charcaterizing literary genres with computational methods)
 - [Jeanne Bollée](https://theses.fr/s395823) (Why Study Mental States? A Study of the Cultural Evolution of Interest in Interior Life through Fiction
+- Pedro cabrera Ramirez (Modelling individual and collective poetics in Fin-de-Siècle literary journals)
 - Noé Durandard (Personalization of conversational models)
-- [Armin Pournaki](https://pournaki.com/) (computational social sciences, cotutelle with Leipzig)
 - Carlos Rosas (bias and social information in LLMs, Cifre PhD with Pleias)
 - [Antoine Bourgois](https://sites.google.com/view/antoinebourgois/%C3%A0-propos) (computational narratology: charcaterizinf characters in French fiction)
+
+PhD students who recently defended
+- [Armin Pournaki](https://pournaki.com/) (computational social sciences, cotutelle with Leipzig)
+- [Salomé Do](https://sally14.github.io/) (2019-2024, Ecole normale supérieure & Sciences Po Paris, co-supervised with J.-P. Cointet, médialab Sciences Po) : Computational methods for news framing analysis. 
 
 Post-docs
 - [Mingmeng Geng](http://www.mingmenggeng.com/), NLP (influence of LLMs on writing)
@@ -31,7 +35,6 @@ External collaborators
 **Alumni**
 
 Past PhD students
-- [Salomé Do](https://sally14.github.io/) (2019-2024, Ecole normale supérieure & Sciences Po Paris, co-supervised with J.-P. Cointet, médialab Sciences Po) : Computational methods for news framing analysis. 
 - [Karim Lasri](https://www.linkedin.com/in/karim-lasri/?originalSubdomain=fr) (2019-2023, Ecole normale supérieure & Univ. Pisa, co-supervised with A. Lenci) : Linguistic Generalization in Transformer-Based Neural Language Models (Karim now works as a research fellow for the World Bank). 
 - [Mylène Maignant](https://www.linkedin.com/in/myl%C3%A8ne-maignant-32830a230/?originalSubdomain=fr) (2018-2022, Ecole normale supérieure: Automatic analysis of the reception of contemporary English theatre through the Theater Record database (Mylène is now a consultant in AI at WenVision, a start up in Paris)
 - [Yuanfeng Lu](https://icscc-transfers.ens.fr/article141.html) (2017-2021, Ecole normale supérieure): Computational stylistics (Yuanfeng now works for a Chinese IT company)
