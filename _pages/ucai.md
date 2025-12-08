@@ -5,7 +5,9 @@ permalink: /ucai/
 author_profile: true
 ---
 
-Companion page for the book *Understanding Conversational AI: The Philosophy, Ethics and Social Impact of Large Language Modls* ([Ubiquity Press](https://ubiquitypress.com/), to be published towards the end of 2025 as an open access book)
+Companion page for the book *Understanding Conversational AI: The Philosophy, Ethics and Social Impact of Large Language Modls* ([Ubiquity Press]([https://ubiquitypress.com/](https://www.ubiquitypress.com/books/m/130)), to be published towards the end of 2025 as an open access book)
+
+
 
 **Table of content**  
 
