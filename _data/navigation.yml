@@ -11,7 +11,7 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: <img src="new.jpg">" Understanging\nConversational AI (Book)"
+  - title: <img src="/images/new.jpg"> "Understanging\nConversational AI (Book)"
     url: /ucai/
 
   - title: "Team"
