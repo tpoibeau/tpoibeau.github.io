@@ -5,8 +5,13 @@ permalink: /ucai/
 author_profile: true
 ---
 
-Companion page for the book [Understanding Conversational AI: The Philosophy, Ethics and Social Impact of Large Language Modls]([https://www.ubiquitypress.com/books/m/10.5334/bde]) ([Ubiquity Press)), published in December 2025 as an open access book)
+This page is a companion site for the book Understanding Conversational AI: Philosophy, Ethics, and the Social Impact of Large Language Models, published by Ubiquity Press in December 2025.  
 
+The book is fully open access and examines large language models from philosophical, ethical, and societal perspectives.  
+
+This page provides additional materials, updates, and resources related to the book.
+
+**Reference: **
 Understanding Conversational AI: Philosophy, Ethics, and Social Impact of Large Language Models  
 Thierry Poibeau  
 Ubiquity Press (open access)  
