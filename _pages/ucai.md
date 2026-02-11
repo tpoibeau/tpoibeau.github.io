@@ -9,7 +9,7 @@ This page is a companion site for the book [Understanding Conversational AI: Phi
 
 The book is fully open access and examines large language models from philosophical, ethical, and societal perspectives.  
 
-This page provides additional materials, updates, and resources related to the book.
+This page will provide additional materials, updates, and resources related to the book.
 
 **Reference:**
 Understanding Conversational AI: Philosophy, Ethics, and Social Impact of Large Language Models  
