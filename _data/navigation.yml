@@ -11,7 +11,7 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: <img src="/images/new.jpg" width="25" height="25"> Understanding Conversational AI (Book)
+  - title: <img src="/images/new.jpg" width="25" height="25"> Understanding<br> Conversational AI (Book)
     url: /ucai/
 
   - title: "Team"
