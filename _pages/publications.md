@@ -17,4 +17,4 @@ A complete list of my academic publications (journal and conference papers, etc.
 
 <BR>
        
-<img src="https://tpoibeau.github.io/images/mt-poib-ch.png" alt="Cover of the Machine translation book" width="455"/>  <img src="https://tpoibeau.github.io/images/poib-cup.png" alt="Cover of the Cognition book" width="140"/>   <img src="https://tpoibeau.github.io/images/IE-springer.png" alt="Cover of the book on information extraction" width="134"/>
+<img src="https://tpoibeau.github.io/images/ucai.png" alt="Cover of the Understsanding Conversational AI) book" width="455"/> <img src="https://tpoibeau.github.io/images/mt-poib-ch.png" alt="Cover of the Machine translation book" width="455"/>  <img src="https://tpoibeau.github.io/images/poib-cup.png" alt="Cover of the Cognition book" width="140"/>   <img src="https://tpoibeau.github.io/images/IE-springer.png" alt="Cover of the book on information extraction" width="134"/>
