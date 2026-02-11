@@ -2,7 +2,7 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: true 
 ---
 
 I am the author of a [book on machine translation](https://mitpress.mit.edu/9780262534215/machine-translation/), originally published in English and then translated in several languages (Chinese, Japanese, Korean, french). The French edition appeared in 2019 and is available [here](https://www.odilejacob.fr/catalogue/sciences/informatique/babel-20_9782738148490.php). 
