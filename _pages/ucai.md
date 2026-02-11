@@ -12,10 +12,10 @@ The book is fully open access and examines large language models from philosophi
 This page will provide additional materials, updates, and resources related to the book.
 
 **Reference:**
-Understanding Conversational AI: Philosophy, Ethics, and Social Impact of Large Language Models  
+*Understanding Conversational AI: Philosophy, Ethics, and Social Impact of Large Language Models*  
 Thierry Poibeau  
 Ubiquity Press (open access)  
-Link to the publisher: [https://ubiquitypress.com/books/m/10.5334/bde](https://ubiquitypress.com/books/m/10.5334/bde)  
+Link to the publisher: [https://ubiquitypress.com/books/m/10.5334/bde](https://ubiquitypress.com/books/m/10.5334/bde)  and to [Jstor](https://www.jstor.org/content/oa_chapter_monograph/jj.37105684.1?seq=1)
 
 <img src="../images/ucai.jpg" width="200" alt="Book cover">   
 
