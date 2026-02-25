@@ -1,9 +1,8 @@
-
-<center>
-<img src="https://tpoibeau.github.io/images/propp-baniere.jpg" alt="Propp logo" width="145"/>
+<p align="center">
+<img src="https://tpoibeau.github.io/images/propp-baniere.jpg" alt="Propp logo" width="500"/>
 
 **Pattern Recognition and Ontologies for Prose Processing**
-</center>
+  </p>
 
 A Research-Driven Python NLP Framework for Narrative Analysis
 
