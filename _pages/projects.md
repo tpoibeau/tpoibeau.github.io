@@ -29,7 +29,7 @@ author_profile: true
 **Partners:** Internal project  
 **Abstract:** This project aimed to produce sonnets by recombining lines from 19th-century sonnets, thus reviving an idea by Queneau (*One Hundred Thousand Billion Poems*). A <a href="https://www.raffard-roussel.com/fr/activites-automatiser/">“poetry box,”</a> a low-energy autonomous poetry-producing machine, was created by the Raffard-Roussel studio as part of this project, along with a <a href="https://savoirs.ens.fr/expose.php?id=3929">video</a> produced by Riva Illustrations.
 
-**LAKME (Linguistically Annotated Corpora Using Machine Learning Techniques).     
+**LAKME** (Linguistically Annotated Corpora Using Machine Learning Techniques).     
 **Partners:** EPHE, ENC (Funding by PSL)   
 **Abstract:**  this project explored new techniques for morphosyntactic and syntactic analysis of text corpora in morphologically rich languages (such as Medieval French, Rabbinic Hebrew, and several Finno-Ugric languages (mostly Finnish and Fennic languages).    
 
