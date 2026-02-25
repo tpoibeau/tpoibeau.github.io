@@ -1,6 +1,6 @@
 
 <center>
-<img src="https://tpoibeau.github.io/images/propp.baniere.jpg" alt="Cover of the Understsanding Conversational AI) book" width="145"/>
+<img src="https://tpoibeau.github.io/images/propp-baniere.jpg" alt="Propp logo" width="145"/>
 
 **Pattern Recognition and Ontologies for Prose Processing**
 </center>
