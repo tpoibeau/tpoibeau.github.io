@@ -6,6 +6,7 @@
 #
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
+#"https://lattice-8094.github.io/propp/"
 
 main:
   - title: "Publications"
@@ -21,7 +22,7 @@ main:
     url: /projects/    
 
   - title: "Propp"
-    url: /propp/   #"https://lattice-8094.github.io/propp/"
+    url: /propp/   
 
   - title: "Medias"
     url: /medias/    
