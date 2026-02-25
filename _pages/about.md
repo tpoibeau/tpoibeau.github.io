@@ -13,7 +13,7 @@ I also serve as an Affiliated Lecturer in [Theoretical and Applied Linguistics](
 
 My research spans three interconnected domains:
 -	**Natural Language Processing (NLP):** investigating how large language models encode linguistic knowledge as well as subjective or opinionated information; earlier work includes multilingualism (esp. Finnic langauges, Russian and code-switching), named entity recognition, text zoning, information extraction, and the cognitive aspects of NLP.
--	**Computational Humanities:** developing methods and tools for the annotation and large-scale analysis of novels, notably through the Propp project (Pattern Recognition and Ontologies for Prose Processing).
+-	**Computational Humanities:** developing methods and tools for the annotation and large-scale analysis of novels, notably through the [Propp project](https://lattice-8094.github.io/propp/) (Pattern Recognition and Ontologies for Prose Processing).
 -	**AI and Society:** examining the impact of large language models on society, including their biases, the effects of translation technologies on the translation industry, and the broader consequences of AI on work.
 
 My research focuses mainly on French and English, but I am also interested in Russian (one of the target languages for Propp) and in Finnish.
