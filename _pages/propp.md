@@ -1,5 +1,5 @@
 ---
-title: "Propp"
+title: "Pattern Recognition and Ontologies for Prose Processing"
 permalink: /propp/
 layout: single
 author_profile: true
@@ -7,7 +7,6 @@ author_profile: true
 
 <p align="center">
   <img src="https://tpoibeau.github.io/images/propp-baniere.jpg" alt="Propp logo" width="500"/>
-  <H1>Pattern Recognition and Ontologies for Prose Processing</H1>
 </p>
 
 A Research-Driven Python NLP Framework for Narrative Analysis
