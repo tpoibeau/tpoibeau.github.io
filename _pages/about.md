@@ -21,7 +21,3 @@ My research focuses mainly on French and English, but I am also interested in Ru
 <p align="center">
 <img src="../images/ucai.jpg" width="200" alt="Book cover">   
 </p>
-
-
-
-
