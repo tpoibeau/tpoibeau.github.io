@@ -1,9 +1,9 @@
 
-
-
-
+<center>
+<img src="https://tpoibeau.github.io/images/propp.baniere.jpg" alt="Cover of the Understsanding Conversational AI) book" width="145"/>
 
 **Pattern Recognition and Ontologies for Prose Processing**
+</center>
 
 A Research-Driven Python NLP Framework for Narrative Analysis
 
