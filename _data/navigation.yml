@@ -20,8 +20,8 @@ main:
   - title: "Projects"
     url: /projects/    
 
- - title: "Propp"
-    url: https://lattice-8094.github.io/propp/  
+  - title: "Propp"
+    url: "https://lattice-8094.github.io/propp/"
 
   - title: "Medias"
     url: /medias/    
