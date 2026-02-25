@@ -17,7 +17,9 @@ Thierry Poibeau
 Ubiquity Press (open access)  
 Link to the publisher: [https://ubiquitypress.com/books/m/10.5334/bde](https://ubiquitypress.com/books/m/10.5334/bde)  and to [Jstor](https://www.jstor.org/content/oa_chapter_monograph/jj.37105684.1?seq=1)
 
+<p align="center">
 <img src="../images/ucai.jpg" width="200" alt="Book cover">   
+</p>
 
 **Table of content**  
 
