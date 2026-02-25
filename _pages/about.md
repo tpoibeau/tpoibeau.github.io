@@ -18,5 +18,10 @@ My research spans three interconnected domains:
 
 My research focuses mainly on French and English, but I am also interested in Russian (one of the target languages for Propp) and in Finnish.
 
+<p align="center">
+<img src="../images/ucai.jpg" width="200" alt="Book cover">   
+</p>
+
+
 
 
